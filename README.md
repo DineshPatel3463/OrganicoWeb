@@ -43,14 +43,15 @@ Overall, the motto of organic farms reflects the values and principles of sustai
 
 
                                * Organico Website Sections *
-1.Home
-2.About
-3.Shop-shop/details/cart/checkout
-4.Service-services/details/contact
-5.Team-team/details
-6.Blog-blogs/details
-7.Gallery-photos/products details
+1. Home
+2. About
+3. Shop-shop/details/cart/checkout
+4. Service-services/details/contact
+5. Team-team/details
+6. Blog-blogs/details
+7. Gallery-photos/products details
 8. Navbar & Footer
+9. Cart & Search Bar
                                  
                                * Work Done with Team Members *
 
